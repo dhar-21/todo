@@ -67,6 +67,7 @@ button {
   padding-bottom: 6px;
   border-width: 0;
   margin-right:10px;
+  text-allign:center;
 }
 
 input[type="text"] {
